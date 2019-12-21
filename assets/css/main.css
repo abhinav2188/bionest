@@ -16,6 +16,7 @@ body{
   position:fixed;
   top:0;
   z-index:10;
+  max-height: 100px;
 }
 .navbar-nav{
   display:flex;
