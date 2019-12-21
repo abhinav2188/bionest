@@ -89,7 +89,8 @@ body{
     width:90%;
   }
   .navbar-nav img{
-    width:6rem;
+    width:20%;
+    min-width: 2rem;
   }
   .content{
     width:90%;
