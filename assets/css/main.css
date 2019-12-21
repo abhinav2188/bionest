@@ -16,7 +16,6 @@ body{
   position:fixed;
   top:0;
   z-index:10;
-  max-height: 100px;
 }
 .navbar-nav{
   display:flex;
@@ -53,6 +52,9 @@ body{
   .navbar-nav{
     width:80%;
   }
+  .navbar-nav img{
+    width:8rem;
+  }
   .content{
     width:66.67%;
     padding-top: 7rem;
@@ -85,6 +87,9 @@ body{
 {
   .navbar-nav{
     width:90%;
+  }
+  .navbar-nav img{
+    width:6rem;
   }
   .content{
     width:90%;
